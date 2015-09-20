@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYME</Machine>
+    <WindowsUser>James</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>73cedb1b-26ee-41e4-aa24-4df2f80f7ef8</PackageIdentityName>
+    <IntermediateOutputPath>A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E6045FE751A82FB08ABDB3A773AD7D068DAFA679F6C54D4C0D2507B2CAC9E9DB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>73cedb1b-26ee-41e4-aa24-4df2f80f7ef8_1.0.0.0_neutral__gd9wj2p7c52jg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>73cedb1b-26ee-41e4-aa24-4df2f80f7ef8_gd9wj2p7c52jg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>73cedb1b-26ee-41e4-aa24-4df2f80f7ef8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=James</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T02:28:34.376</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\Word for Everyday.Windows.exe">
+      <PackagePath>Word for Everyday.Windows.exe</PackagePath>
+      <Modified>2015-08-26T02:28:34.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T02:15:49.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T02:24:07.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T02:25:47.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T02:28:06.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T02:22:47.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-08-26T02:13:19.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\about.png">
+      <PackagePath>Images\about.png</PackagePath>
+      <Modified>2015-08-26T01:15:02.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\about10.png">
+      <PackagePath>Images\about10.png</PackagePath>
+      <Modified>2015-08-26T01:32:00.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\back.png">
+      <PackagePath>Images\back.png</PackagePath>
+      <Modified>2015-08-26T01:15:02.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\BackgroundTop2.png">
+      <PackagePath>Images\BackgroundTop2.png</PackagePath>
+      <Modified>2015-08-26T00:59:26.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\bible4.png">
+      <PackagePath>Images\bible4.png</PackagePath>
+      <Modified>2015-08-26T00:59:27.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\close.png">
+      <PackagePath>Images\close.png</PackagePath>
+      <Modified>2015-08-26T01:15:02.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\Dove3.png">
+      <PackagePath>Images\Dove3.png</PackagePath>
+      <Modified>2015-08-26T00:59:27.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\Dove7.PNG">
+      <PackagePath>Images\Dove7.PNG</PackagePath>
+      <Modified>2015-08-26T00:59:27.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\exit10.png">
+      <PackagePath>Images\exit10.png</PackagePath>
+      <Modified>2015-08-26T02:00:08.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\exit2.png">
+      <PackagePath>Images\exit2.png</PackagePath>
+      <Modified>2015-08-26T01:15:02.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\today10.png">
+      <PackagePath>Images\today10.png</PackagePath>
+      <Modified>2015-08-26T01:32:00.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\word4EvrDay2.PNG">
+      <PackagePath>Images\word4EvrDay2.PNG</PackagePath>
+      <Modified>2015-08-26T00:59:26.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\Logo4.JPG">
+      <PackagePath>Images\Logo4.JPG</PackagePath>
+      <Modified>2015-08-26T00:59:19.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Images\open bible.jpg">
+      <PackagePath>Images\open bible.jpg</PackagePath>
+      <Modified>2015-08-26T00:59:26.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\Message2.xml">
+      <PackagePath>Message2.xml</PackagePath>
+      <Modified>2015-08-26T01:02:20.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-26T01:34:13.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-08-26T02:28:33.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-26T02:28:33.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\Messages.xbf">
+      <PackagePath>Messages.xbf</PackagePath>
+      <Modified>2015-08-26T02:28:33.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\Word for Everyday.Windows.xr.xml">
+      <PackagePath>Word for Everyday.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-26T01:57:07.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Not Ready\Word For Everyday\Word for Everyday\Word for Everyday\Word for Everyday.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-26T02:28:34.232</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

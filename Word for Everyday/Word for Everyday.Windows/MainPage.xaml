@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Word_for_Everyday.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Word_for_Everyday"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel x:Name="back" Margin="0,10,10,0">
+            <Image Height="768" Name="background" Source="Images/BackgroundTop2.PNG" VerticalAlignment="Center" Stretch="UniformToFill"/>
+
+        </StackPanel>
+        <Image Height="113" Name="about" Source="Images/about10.PNG" VerticalAlignment="Center" Margin="120,360,71,295" Tapped="about_Tapped" />
+        <Image Height="112" Name="message" Source="Images/today10.PNG" VerticalAlignment="Center" Margin="120,516,71,140" Tapped="message_Tapped" />
+        <Image Height="113" Name="exit" Source="Images/exit10.PNG" VerticalAlignment="Center" Margin="120,645,71,10" Tapped="exit_Tapped" />
+
+        <Grid Name="grdMain">
+        </Grid>
+        <Grid Width="328" Height="768" Name="grdSnap" Background="Black" Visibility="Collapsed" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Grid.Column="0" Grid.Row="0" Name="imgRainSnap" Height="300" Width="300" Source="Assets/BackgroundTop2.png" Margin="3,3,3,3"/>
+            </Grid>
+            <Grid Name="grdPotrate" Visibility="Collapsed" HorizontalAlignment="Center" VerticalAlignment="Center">
+            </Grid>
+            <Grid Name="grdEnd" Visibility="Collapsed" HorizontalAlignment="Center" VerticalAlignment="Center">
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
